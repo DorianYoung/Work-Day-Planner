@@ -26,11 +26,11 @@ Calendar application that allows users to save events for each business hour of 
 
 > ## Installation
 
-GitHub Pages Url
+-GitHub Pages Url
 
 or
 
-Download repository and edit source files
+-Download repository and edit source files
 
 
 > ## Usage
