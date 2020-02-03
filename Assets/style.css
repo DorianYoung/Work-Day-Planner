@@ -1,0 +1,13 @@
+/* HEADER CSS */
+.header-fluid {
+    text-align: center;
+    border-bottom: solid black 7px;
+    margin-bottom: 2%;
+}
+
+/* MAIN CALENDER CONTAINER CSS */
+.container-fluid {
+    width: 80%;
+    border: black solid;
+}
+
