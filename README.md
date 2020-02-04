@@ -26,31 +26,38 @@ Calendar application that allows users to save events for each business hour of 
 
 > ## Installation
 
-github Url
+-GitHub Pages Url
+
 or
-Download repository and edit source files
+
+-Download repository and edit source files
 
 
 > ## Usage
 
-The user arrives at the landing page and is presented with a call-to-action to begin quiz. Also note the navigation option to "View Highscores" and the "Time" value set at 120 seconds (2 minutes).
+- The application displays timeblocks for standard business hours (9 a.m. to 5 p.m.).
 
 
-Clicking the "Next" button presents the user with the next series of questions. The timer is initialized with the 120 second value and immediately begins countdown.
+- Each timeblock contains an input field and save button.
 
 
-Score is calculated by answers correct vs answers you have incorecctly answered.
-When time runs out and/or all questions are answered, the user is presented with their final score.
+- Clicking a timeblock's "Save" button stores the input text in local storage, allowing the text to persist when the application is refreshed.
+
+
+- The current day is displayed at the top of the calendar.
+
+
+- Each timeblock is color coded to indicate whether it is in a past, present, or future hour.
 
 > ## Credits
 
-
+Not Available
 
 
 
 > ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+Not Available
 
 
 

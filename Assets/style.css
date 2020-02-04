@@ -67,9 +67,8 @@ input {
     height:100%;
     width: 100%;
   }
-  
-  
-  
+
+    
  /* RESIZE FOR TABLETS AND SMALLER */
 
 @media (max-width: 767px) {
@@ -82,3 +81,4 @@ input {
       border-radius: 100;
       margin: 10px;
 }
+  
