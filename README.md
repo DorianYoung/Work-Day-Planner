@@ -28,7 +28,7 @@ Calendar application that allows users to save events for each business hour of 
 
 - GitHub Pages Url
 
-or
+*or
 
 - Download repository and edit source files
 
