@@ -26,11 +26,11 @@ Calendar application that allows users to save events for each business hour of 
 
 > ## Installation
 
--GitHub Pages Url
+- GitHub Pages Url
 
 or
 
--Download repository and edit source files
+- Download repository and edit source files
 
 
 > ## Usage
@@ -63,10 +63,10 @@ Not Available
 
 > ## Badges
 
-![HTML](https://img.shields.io/badge/HTML-38%25-red)
+![HTML](https://img.shields.io/badge/HTML-1%25-red)
 
-![CSS](https://img.shields.io/badge/CSS-14%25-purple)
+![CSS](https://img.shields.io/badge/CSS-1%25-purple)
 
-![Javascript](https://img.shields.io/badge/Javascript-48%25-yellow)
+![Javascript](https://img.shields.io/badge/Javascript-98%25-yellow)
 
 ![Dorian](https://img.shields.io/badge/Dorian-100%25-green)
