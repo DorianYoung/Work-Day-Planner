@@ -4,7 +4,7 @@
 
 
 
-![Dorian Young](https://github.com/DorianYoung/Code_Quiz/blob/master/Assets/Images/CodeQuizScreenshot.jpg?raw=true)
+![Dorian Young](https://raw.githubusercontent.com/DorianYoung/WorkDayPlanner/master/Assets/Images/DayPlannerScreenshot.png)
 https://github.com/DorianYoung
 
 <h2>DORIAN Y Work Day Planner</h2>
