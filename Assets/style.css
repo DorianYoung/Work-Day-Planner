@@ -8,6 +8,77 @@
 /* MAIN CALENDER CONTAINER CSS */
 .container-fluid {
     width: 80%;
-    border: black solid;
 }
 
+ 
+/*ENTIRE SCHEDULE ROW*/ 
+.scheduleRow {
+    height: 50px;
+    line-height: 2;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 14px;
+    border-radius: 15px; 
+}
+
+/*TIME BLOCK COLUMN*/  
+.col-md-2 {
+    padding: 0px;
+    border-top-left-radius: 15px;
+}
+
+/* STYLE TIME CONTAINER */
+.timeBox {
+    background-color: white;  
+    color: black;
+    height:100%;
+    width: 100%;
+    text-align: center;
+    border-radius: 15px 0px 0px 15px;
+    display: inline-block;
+    font-size: 1em;
+}
+ 
+/*TEXT INPUT COLUMN*/  
+.col-md-9 {
+    padding: 0;
+}
+
+/*TEXT INPUT FIELD*/
+input {
+    background: transparent;
+    border: none;
+    text-align: center;
+}
+ 
+/*SAVE BUTTON COLUMN*/ 
+.col-md-1 {
+    background-color: #38d7ff;
+    text-align: center;
+    padding: 0px;
+    border-top-right-radius: 15px;
+}
+
+
+  /* style container with daily plan */
+  .dailyPlan {
+    color: black;  
+    font-size: 12pt;
+    height:100%;
+    width: 100%;
+  }
+  
+  
+  
+ /* RESIZE FOR TABLETS AND SMALLER */
+
+@media (max-width: 767px) {
+    .container-fluid {
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .scheduleRow {
+      height: 100%;
+      border-radius: 100;
+      margin: 10px;
+}
